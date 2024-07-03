@@ -26,8 +26,9 @@ This installs an NFS Server Provisioner using Helm, providing persistent storage
 ### 3. Create Persistent Volume and Pod
 Create `spark-pvc.yaml` with the following content:
 ```yaml
-kind: PersistentVolumeClaim
+
 apiVersion: v1
+kind: PersistentVolumeClaim
 metadata:
   name: spark-data-pvc
 spec:
@@ -130,4 +131,7 @@ cat stdout  # View the output of the job
 ```
 Replace `<worker-pod-name>` with the actual name of the worker node pod where the job ran.
 
-# Test(Please follow the pdf provided):
+# Test
+Please follow the pdf provided
+
+For any other query, please follow the pdf provided.
