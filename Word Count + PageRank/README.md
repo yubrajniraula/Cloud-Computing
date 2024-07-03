@@ -130,8 +130,4 @@ cat stdout  # View the output of the job
 ```
 Replace `<worker-pod-name>` with the actual name of the worker node pod where the job ran.
 
-# Test(Please follow the pdf below):
-[Implementation Instruction (PDF)](https://github.com/ASD-Are/Big_Data/blob/main/Work%20Count%20%2B%20PageRank/WordCount__PageRank_Implementation_Guide.pdf)
-
-# Appendix
-[Google Slide](https://docs.google.com/presentation/d/1v4RjcHWXDSsFP7fNxkmHR-Ha0ivCokpLYhtMXGAvDXA/edit?usp=sharing)
+# Test(Please follow the pdf provided):
